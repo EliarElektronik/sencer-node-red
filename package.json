@@ -1,0 +1,12 @@
+{
+    "name": "sencer-node-red",
+    "description": "s",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_sencer_laptop.json",
+            "credentialsFile": "flows_sencer_laptop_cred.json"
+        }
+    }
+}
